@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\bin\Debug\net5.0\SqueakyClean.exe
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\bin\Debug\net5.0\SqueakyClean.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\bin\Debug\net5.0\SqueakyClean.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\bin\Debug\net5.0\SqueakyClean.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\bin\Debug\net5.0\SqueakyClean.dll
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\bin\Debug\net5.0\ref\SqueakyClean.dll
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\bin\Debug\net5.0\SqueakyClean.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\obj\Debug\net5.0\SqueakyClean.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\obj\Debug\net5.0\SqueakyClean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\obj\Debug\net5.0\SqueakyClean.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\obj\Debug\net5.0\SqueakyClean.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\obj\Debug\net5.0\SqueakyClean.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\obj\Debug\net5.0\SqueakyClean.dll
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\obj\Debug\net5.0\ref\SqueakyClean.dll
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\obj\Debug\net5.0\SqueakyClean.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\SqueakyClean\obj\Debug\net5.0\SqueakyClean.genruntimeconfig.cache

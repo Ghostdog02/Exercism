@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\obj\Debug\net5.0\TracksOnTracksOnTracks.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\obj\Debug\net5.0\TracksOnTracksOnTracks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\obj\Debug\net5.0\TracksOnTracksOnTracks.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\obj\Debug\net5.0\TracksOnTracksOnTracks.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\obj\Debug\net5.0\TracksOnTracksOnTracks.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\bin\Debug\net5.0\TracksOnTracksOnTracks.exe
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\bin\Debug\net5.0\TracksOnTracksOnTracks.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\bin\Debug\net5.0\TracksOnTracksOnTracks.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\bin\Debug\net5.0\TracksOnTracksOnTracks.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\bin\Debug\net5.0\TracksOnTracksOnTracks.dll
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\bin\Debug\net5.0\ref\TracksOnTracksOnTracks.dll
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\bin\Debug\net5.0\TracksOnTracksOnTracks.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\obj\Debug\net5.0\TracksOnTracksOnTracks.dll
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\obj\Debug\net5.0\ref\TracksOnTracksOnTracks.dll
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\obj\Debug\net5.0\TracksOnTracksOnTracks.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\TracksOnTracksOnTracks\obj\Debug\net5.0\TracksOnTracksOnTracks.genruntimeconfig.cache

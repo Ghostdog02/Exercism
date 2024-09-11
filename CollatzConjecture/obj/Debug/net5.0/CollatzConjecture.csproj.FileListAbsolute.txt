@@ -1,0 +1,15 @@
+D:\Projects\Exercism\CollatzConjecture\bin\Debug\net5.0\CollatzConjecture.exe
+D:\Projects\Exercism\CollatzConjecture\bin\Debug\net5.0\CollatzConjecture.deps.json
+D:\Projects\Exercism\CollatzConjecture\bin\Debug\net5.0\CollatzConjecture.runtimeconfig.json
+D:\Projects\Exercism\CollatzConjecture\bin\Debug\net5.0\CollatzConjecture.runtimeconfig.dev.json
+D:\Projects\Exercism\CollatzConjecture\bin\Debug\net5.0\CollatzConjecture.dll
+D:\Projects\Exercism\CollatzConjecture\bin\Debug\net5.0\ref\CollatzConjecture.dll
+D:\Projects\Exercism\CollatzConjecture\bin\Debug\net5.0\CollatzConjecture.pdb
+D:\Projects\Exercism\CollatzConjecture\obj\Debug\net5.0\CollatzConjecture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Exercism\CollatzConjecture\obj\Debug\net5.0\CollatzConjecture.AssemblyInfoInputs.cache
+D:\Projects\Exercism\CollatzConjecture\obj\Debug\net5.0\CollatzConjecture.AssemblyInfo.cs
+D:\Projects\Exercism\CollatzConjecture\obj\Debug\net5.0\CollatzConjecture.csproj.CoreCompileInputs.cache
+D:\Projects\Exercism\CollatzConjecture\obj\Debug\net5.0\CollatzConjecture.dll
+D:\Projects\Exercism\CollatzConjecture\obj\Debug\net5.0\ref\CollatzConjecture.dll
+D:\Projects\Exercism\CollatzConjecture\obj\Debug\net5.0\CollatzConjecture.pdb
+D:\Projects\Exercism\CollatzConjecture\obj\Debug\net5.0\CollatzConjecture.genruntimeconfig.cache

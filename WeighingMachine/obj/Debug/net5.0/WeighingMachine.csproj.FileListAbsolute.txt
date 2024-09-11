@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\obj\Debug\net5.0\WeighingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\obj\Debug\net5.0\WeighingMachine.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\obj\Debug\net5.0\WeighingMachine.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\obj\Debug\net5.0\WeighingMachine.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\bin\Debug\net5.0\WeighingMachine.exe
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\bin\Debug\net5.0\WeighingMachine.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\bin\Debug\net5.0\WeighingMachine.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\bin\Debug\net5.0\WeighingMachine.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\bin\Debug\net5.0\WeighingMachine.dll
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\bin\Debug\net5.0\ref\WeighingMachine.dll
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\bin\Debug\net5.0\WeighingMachine.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\obj\Debug\net5.0\WeighingMachine.dll
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\obj\Debug\net5.0\ref\WeighingMachine.dll
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\obj\Debug\net5.0\WeighingMachine.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\obj\Debug\net5.0\WeighingMachine.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\LucianLasagna\WeighingMachine\obj\Debug\net5.0\WeighingMachine.csproj.AssemblyReference.cache

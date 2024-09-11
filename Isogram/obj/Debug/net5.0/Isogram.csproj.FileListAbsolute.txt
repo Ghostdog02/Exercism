@@ -1,0 +1,4 @@
+C:\Users\Alexander\source\repos\LucianLasagna\Isogram\obj\Debug\net5.0\Isogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\Isogram\obj\Debug\net5.0\Isogram.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Isogram\obj\Debug\net5.0\Isogram.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\Isogram\obj\Debug\net5.0\Isogram.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\bin\Debug\net5.0\BookingForBeauty.exe
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\bin\Debug\net5.0\BookingForBeauty.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\bin\Debug\net5.0\BookingForBeauty.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\bin\Debug\net5.0\BookingForBeauty.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\bin\Debug\net5.0\BookingForBeauty.dll
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\bin\Debug\net5.0\ref\BookingForBeauty.dll
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\bin\Debug\net5.0\BookingForBeauty.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\obj\Debug\net5.0\BookingForBeauty.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\obj\Debug\net5.0\BookingForBeauty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\obj\Debug\net5.0\BookingForBeauty.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\obj\Debug\net5.0\BookingForBeauty.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\obj\Debug\net5.0\BookingForBeauty.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\obj\Debug\net5.0\BookingForBeauty.dll
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\obj\Debug\net5.0\ref\BookingForBeauty.dll
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\obj\Debug\net5.0\BookingForBeauty.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\BookingForBeauty\obj\Debug\net5.0\BookingForBeauty.genruntimeconfig.cache

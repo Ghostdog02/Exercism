@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\bin\Debug\net5.0\Bob.exe
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\bin\Debug\net5.0\Bob.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\bin\Debug\net5.0\Bob.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\bin\Debug\net5.0\Bob.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\bin\Debug\net5.0\Bob.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\bin\Debug\net5.0\ref\Bob.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\bin\Debug\net5.0\Bob.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\obj\Debug\net5.0\Bob.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\obj\Debug\net5.0\Bob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\obj\Debug\net5.0\Bob.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\obj\Debug\net5.0\Bob.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\obj\Debug\net5.0\Bob.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\obj\Debug\net5.0\Bob.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\obj\Debug\net5.0\ref\Bob.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\obj\Debug\net5.0\Bob.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\Bob\obj\Debug\net5.0\Bob.genruntimeconfig.cache

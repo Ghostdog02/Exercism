@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\obj\Debug\net5.0\FootballMatchReports.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\obj\Debug\net5.0\FootballMatchReports.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\obj\Debug\net5.0\FootballMatchReports.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\obj\Debug\net5.0\FootballMatchReports.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\obj\Debug\net5.0\FootballMatchReports.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\bin\Debug\net5.0\FootballMatchReports.exe
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\bin\Debug\net5.0\FootballMatchReports.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\bin\Debug\net5.0\FootballMatchReports.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\bin\Debug\net5.0\FootballMatchReports.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\bin\Debug\net5.0\FootballMatchReports.dll
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\bin\Debug\net5.0\ref\FootballMatchReports.dll
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\bin\Debug\net5.0\FootballMatchReports.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\obj\Debug\net5.0\FootballMatchReports.dll
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\obj\Debug\net5.0\ref\FootballMatchReports.dll
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\obj\Debug\net5.0\FootballMatchReports.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\FootballMatchReports\obj\Debug\net5.0\FootballMatchReports.genruntimeconfig.cache

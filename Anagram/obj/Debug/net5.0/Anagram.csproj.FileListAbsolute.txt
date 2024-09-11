@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\obj\Debug\net5.0\Anagram.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\obj\Debug\net5.0\Anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\obj\Debug\net5.0\Anagram.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\obj\Debug\net5.0\Anagram.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\obj\Debug\net5.0\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\bin\Debug\net5.0\Anagram.exe
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\bin\Debug\net5.0\Anagram.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\bin\Debug\net5.0\Anagram.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\bin\Debug\net5.0\Anagram.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\bin\Debug\net5.0\Anagram.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\bin\Debug\net5.0\ref\Anagram.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\bin\Debug\net5.0\Anagram.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\obj\Debug\net5.0\Anagram.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\obj\Debug\net5.0\ref\Anagram.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\obj\Debug\net5.0\Anagram.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\Anagram\obj\Debug\net5.0\Anagram.genruntimeconfig.cache

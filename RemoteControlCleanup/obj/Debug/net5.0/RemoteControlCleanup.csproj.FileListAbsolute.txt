@@ -1,0 +1,5 @@
+C:\Users\Alexander\source\repos\LucianLasagna\RemoteControlCleanup\obj\Debug\net5.0\RemoteControlCleanup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\RemoteControlCleanup\obj\Debug\net5.0\RemoteControlCleanup.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\RemoteControlCleanup\obj\Debug\net5.0\RemoteControlCleanup.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\RemoteControlCleanup\obj\Debug\net5.0\RemoteControlCleanup.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\RemoteControlCleanup\obj\Debug\net5.0\RemoteControlCleanup.csproj.AssemblyReference.cache

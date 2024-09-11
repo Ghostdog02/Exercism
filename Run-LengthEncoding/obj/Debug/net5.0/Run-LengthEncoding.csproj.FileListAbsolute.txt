@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\obj\Debug\net5.0\Run-LengthEncoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\obj\Debug\net5.0\Run-LengthEncoding.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\obj\Debug\net5.0\Run-LengthEncoding.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\obj\Debug\net5.0\Run-LengthEncoding.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\bin\Debug\net5.0\Run-LengthEncoding.exe
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\bin\Debug\net5.0\Run-LengthEncoding.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\bin\Debug\net5.0\Run-LengthEncoding.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\bin\Debug\net5.0\Run-LengthEncoding.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\bin\Debug\net5.0\Run-LengthEncoding.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\bin\Debug\net5.0\ref\Run-LengthEncoding.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\bin\Debug\net5.0\Run-LengthEncoding.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\obj\Debug\net5.0\Run-LengthEncoding.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\obj\Debug\net5.0\ref\Run-LengthEncoding.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\obj\Debug\net5.0\Run-LengthEncoding.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\obj\Debug\net5.0\Run-LengthEncoding.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Run-LengthEncoding\obj\Debug\net5.0\Run-LengthEncoding.csproj.AssemblyReference.cache

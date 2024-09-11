@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\obj\Debug\net5.0\WizardsAndWarriors.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\obj\Debug\net5.0\WizardsAndWarriors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\obj\Debug\net5.0\WizardsAndWarriors.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\obj\Debug\net5.0\WizardsAndWarriors.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\obj\Debug\net5.0\WizardsAndWarriors.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\bin\Debug\net5.0\WizardsAndWarriors.exe
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\bin\Debug\net5.0\WizardsAndWarriors.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\bin\Debug\net5.0\WizardsAndWarriors.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\bin\Debug\net5.0\WizardsAndWarriors.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\bin\Debug\net5.0\WizardsAndWarriors.dll
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\bin\Debug\net5.0\ref\WizardsAndWarriors.dll
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\bin\Debug\net5.0\WizardsAndWarriors.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\obj\Debug\net5.0\WizardsAndWarriors.dll
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\obj\Debug\net5.0\ref\WizardsAndWarriors.dll
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\obj\Debug\net5.0\WizardsAndWarriors.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors\obj\Debug\net5.0\WizardsAndWarriors.genruntimeconfig.cache

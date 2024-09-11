@@ -1,0 +1,5 @@
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors2\obj\Debug\net5.0\WizardsAndWarriors2.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors2\obj\Debug\net5.0\WizardsAndWarriors2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors2\obj\Debug\net5.0\WizardsAndWarriors2.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors2\obj\Debug\net5.0\WizardsAndWarriors2.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\WizardsAndWarriors2\obj\Debug\net5.0\WizardsAndWarriors2.csproj.CoreCompileInputs.cache

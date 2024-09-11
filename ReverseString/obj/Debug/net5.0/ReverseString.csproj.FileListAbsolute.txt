@@ -1,0 +1,4 @@
+C:\Users\Alexander\source\repos\LucianLasagna\ReverseString\obj\Debug\net5.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\ReverseString\obj\Debug\net5.0\ReverseString.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\ReverseString\obj\Debug\net5.0\ReverseString.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\ReverseString\obj\Debug\net5.0\ReverseString.csproj.CoreCompileInputs.cache

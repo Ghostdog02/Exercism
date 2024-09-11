@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\bin\Debug\net5.0\InstrumentsOfTexas.exe
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\bin\Debug\net5.0\InstrumentsOfTexas.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\bin\Debug\net5.0\InstrumentsOfTexas.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\bin\Debug\net5.0\InstrumentsOfTexas.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\bin\Debug\net5.0\InstrumentsOfTexas.dll
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\bin\Debug\net5.0\ref\InstrumentsOfTexas.dll
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\bin\Debug\net5.0\InstrumentsOfTexas.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\obj\Debug\net5.0\InstrumentsOfTexas.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\obj\Debug\net5.0\InstrumentsOfTexas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\obj\Debug\net5.0\InstrumentsOfTexas.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\obj\Debug\net5.0\InstrumentsOfTexas.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\obj\Debug\net5.0\InstrumentsOfTexas.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\obj\Debug\net5.0\InstrumentsOfTexas.dll
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\obj\Debug\net5.0\ref\InstrumentsOfTexas.dll
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\obj\Debug\net5.0\InstrumentsOfTexas.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\InstrumentsOfTexas\obj\Debug\net5.0\InstrumentsOfTexas.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Projects\Exercism\Raindrops\bin\Debug\net5.0\Raindrops.exe
+D:\Projects\Exercism\Raindrops\bin\Debug\net5.0\Raindrops.deps.json
+D:\Projects\Exercism\Raindrops\bin\Debug\net5.0\Raindrops.runtimeconfig.json
+D:\Projects\Exercism\Raindrops\bin\Debug\net5.0\Raindrops.runtimeconfig.dev.json
+D:\Projects\Exercism\Raindrops\bin\Debug\net5.0\Raindrops.dll
+D:\Projects\Exercism\Raindrops\bin\Debug\net5.0\ref\Raindrops.dll
+D:\Projects\Exercism\Raindrops\bin\Debug\net5.0\Raindrops.pdb
+D:\Projects\Exercism\Raindrops\obj\Debug\net5.0\Raindrops.csproj.AssemblyReference.cache
+D:\Projects\Exercism\Raindrops\obj\Debug\net5.0\Raindrops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Exercism\Raindrops\obj\Debug\net5.0\Raindrops.AssemblyInfoInputs.cache
+D:\Projects\Exercism\Raindrops\obj\Debug\net5.0\Raindrops.AssemblyInfo.cs
+D:\Projects\Exercism\Raindrops\obj\Debug\net5.0\Raindrops.csproj.CoreCompileInputs.cache
+D:\Projects\Exercism\Raindrops\obj\Debug\net5.0\Raindrops.dll
+D:\Projects\Exercism\Raindrops\obj\Debug\net5.0\ref\Raindrops.dll
+D:\Projects\Exercism\Raindrops\obj\Debug\net5.0\Raindrops.pdb
+D:\Projects\Exercism\Raindrops\obj\Debug\net5.0\Raindrops.genruntimeconfig.cache

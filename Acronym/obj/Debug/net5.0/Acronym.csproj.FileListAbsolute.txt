@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\bin\Debug\net5.0\Acronym.exe
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\bin\Debug\net5.0\Acronym.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\bin\Debug\net5.0\Acronym.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\bin\Debug\net5.0\Acronym.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\bin\Debug\net5.0\Acronym.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\bin\Debug\net5.0\ref\Acronym.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\bin\Debug\net5.0\Acronym.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\obj\Debug\net5.0\Acronym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\obj\Debug\net5.0\Acronym.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\obj\Debug\net5.0\Acronym.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\obj\Debug\net5.0\Acronym.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\obj\Debug\net5.0\Acronym.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\obj\Debug\net5.0\ref\Acronym.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\obj\Debug\net5.0\Acronym.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\obj\Debug\net5.0\Acronym.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Acronym\obj\Debug\net5.0\Acronym.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\bin\Debug\net5.0\HighSchoolSweethearts.exe
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\bin\Debug\net5.0\HighSchoolSweethearts.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\bin\Debug\net5.0\HighSchoolSweethearts.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\bin\Debug\net5.0\HighSchoolSweethearts.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\bin\Debug\net5.0\HighSchoolSweethearts.dll
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\bin\Debug\net5.0\ref\HighSchoolSweethearts.dll
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\bin\Debug\net5.0\HighSchoolSweethearts.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\obj\Debug\net5.0\HighSchoolSweethearts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\obj\Debug\net5.0\HighSchoolSweethearts.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\obj\Debug\net5.0\HighSchoolSweethearts.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\obj\Debug\net5.0\HighSchoolSweethearts.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\obj\Debug\net5.0\HighSchoolSweethearts.dll
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\obj\Debug\net5.0\ref\HighSchoolSweethearts.dll
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\obj\Debug\net5.0\HighSchoolSweethearts.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\obj\Debug\net5.0\HighSchoolSweethearts.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\LucianLasagna\HighSchoolSweethearts\obj\Debug\net5.0\HighSchoolSweethearts.csproj.AssemblyReference.cache

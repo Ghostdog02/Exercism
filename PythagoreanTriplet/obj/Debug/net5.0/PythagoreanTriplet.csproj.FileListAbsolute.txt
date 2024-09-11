@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\obj\Debug\net5.0\PythagoreanTriplet.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\obj\Debug\net5.0\PythagoreanTriplet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\obj\Debug\net5.0\PythagoreanTriplet.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\obj\Debug\net5.0\PythagoreanTriplet.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\obj\Debug\net5.0\PythagoreanTriplet.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\bin\Debug\net5.0\PythagoreanTriplet.exe
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\bin\Debug\net5.0\PythagoreanTriplet.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\bin\Debug\net5.0\PythagoreanTriplet.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\bin\Debug\net5.0\PythagoreanTriplet.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\bin\Debug\net5.0\PythagoreanTriplet.dll
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\bin\Debug\net5.0\ref\PythagoreanTriplet.dll
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\bin\Debug\net5.0\PythagoreanTriplet.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\obj\Debug\net5.0\PythagoreanTriplet.dll
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\obj\Debug\net5.0\ref\PythagoreanTriplet.dll
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\obj\Debug\net5.0\PythagoreanTriplet.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\PythagoreanTriplet\obj\Debug\net5.0\PythagoreanTriplet.genruntimeconfig.cache

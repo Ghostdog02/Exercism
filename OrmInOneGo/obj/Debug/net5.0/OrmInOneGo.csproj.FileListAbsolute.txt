@@ -1,0 +1,5 @@
+C:\Users\Alexander\source\repos\LucianLasagna\OrmInOneGo\obj\Debug\net5.0\OrmInOneGo.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\OrmInOneGo\obj\Debug\net5.0\OrmInOneGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\OrmInOneGo\obj\Debug\net5.0\OrmInOneGo.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\OrmInOneGo\obj\Debug\net5.0\OrmInOneGo.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\OrmInOneGo\obj\Debug\net5.0\OrmInOneGo.csproj.CoreCompileInputs.cache

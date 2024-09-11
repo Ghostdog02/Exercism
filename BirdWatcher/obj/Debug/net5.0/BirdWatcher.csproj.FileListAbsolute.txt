@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\bin\Debug\net5.0\BirdWatcher.exe
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\bin\Debug\net5.0\BirdWatcher.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\bin\Debug\net5.0\BirdWatcher.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\bin\Debug\net5.0\BirdWatcher.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\bin\Debug\net5.0\BirdWatcher.dll
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\bin\Debug\net5.0\ref\BirdWatcher.dll
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\bin\Debug\net5.0\BirdWatcher.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\obj\Debug\net5.0\BirdWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\obj\Debug\net5.0\BirdWatcher.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\obj\Debug\net5.0\BirdWatcher.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\obj\Debug\net5.0\BirdWatcher.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\obj\Debug\net5.0\BirdWatcher.dll
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\obj\Debug\net5.0\ref\BirdWatcher.dll
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\obj\Debug\net5.0\BirdWatcher.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\obj\Debug\net5.0\BirdWatcher.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\LucianLasagna\BirdWatcher\obj\Debug\net5.0\BirdWatcher.csproj.AssemblyReference.cache

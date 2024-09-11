@@ -1,0 +1,16 @@
+D:\Projects\Exercism\Triangle\bin\Debug\net5.0\Triangle.exe
+D:\Projects\Exercism\Triangle\bin\Debug\net5.0\Triangle.deps.json
+D:\Projects\Exercism\Triangle\bin\Debug\net5.0\Triangle.runtimeconfig.json
+D:\Projects\Exercism\Triangle\bin\Debug\net5.0\Triangle.runtimeconfig.dev.json
+D:\Projects\Exercism\Triangle\bin\Debug\net5.0\Triangle.dll
+D:\Projects\Exercism\Triangle\bin\Debug\net5.0\ref\Triangle.dll
+D:\Projects\Exercism\Triangle\bin\Debug\net5.0\Triangle.pdb
+D:\Projects\Exercism\Triangle\obj\Debug\net5.0\Triangle.csproj.AssemblyReference.cache
+D:\Projects\Exercism\Triangle\obj\Debug\net5.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Exercism\Triangle\obj\Debug\net5.0\Triangle.AssemblyInfoInputs.cache
+D:\Projects\Exercism\Triangle\obj\Debug\net5.0\Triangle.AssemblyInfo.cs
+D:\Projects\Exercism\Triangle\obj\Debug\net5.0\Triangle.csproj.CoreCompileInputs.cache
+D:\Projects\Exercism\Triangle\obj\Debug\net5.0\Triangle.dll
+D:\Projects\Exercism\Triangle\obj\Debug\net5.0\ref\Triangle.dll
+D:\Projects\Exercism\Triangle\obj\Debug\net5.0\Triangle.pdb
+D:\Projects\Exercism\Triangle\obj\Debug\net5.0\Triangle.genruntimeconfig.cache

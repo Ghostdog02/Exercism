@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\obj\Debug\net5.0\Logs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\obj\Debug\net5.0\Logs.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\obj\Debug\net5.0\Logs.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\obj\Debug\net5.0\Logs.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\bin\Debug\net5.0\Logs.exe
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\bin\Debug\net5.0\Logs.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\bin\Debug\net5.0\Logs.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\bin\Debug\net5.0\Logs.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\bin\Debug\net5.0\Logs.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\bin\Debug\net5.0\ref\Logs.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\bin\Debug\net5.0\Logs.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\obj\Debug\net5.0\Logs.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\obj\Debug\net5.0\ref\Logs.dll
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\obj\Debug\net5.0\Logs.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\obj\Debug\net5.0\Logs.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\LucianLasagna\Logs\obj\Debug\net5.0\Logs.csproj.AssemblyReference.cache

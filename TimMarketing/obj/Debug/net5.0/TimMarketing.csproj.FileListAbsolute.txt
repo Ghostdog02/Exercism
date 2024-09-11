@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\obj\Debug\net5.0\TimMarketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\obj\Debug\net5.0\TimMarketing.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\obj\Debug\net5.0\TimMarketing.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\obj\Debug\net5.0\TimMarketing.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\bin\Debug\net5.0\TimMarketing.exe
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\bin\Debug\net5.0\TimMarketing.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\bin\Debug\net5.0\TimMarketing.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\bin\Debug\net5.0\TimMarketing.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\bin\Debug\net5.0\TimMarketing.dll
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\bin\Debug\net5.0\ref\TimMarketing.dll
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\bin\Debug\net5.0\TimMarketing.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\obj\Debug\net5.0\TimMarketing.dll
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\obj\Debug\net5.0\ref\TimMarketing.dll
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\obj\Debug\net5.0\TimMarketing.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\obj\Debug\net5.0\TimMarketing.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\LucianLasagna\TimMarketing\obj\Debug\net5.0\TimMarketing.csproj.AssemblyReference.cache

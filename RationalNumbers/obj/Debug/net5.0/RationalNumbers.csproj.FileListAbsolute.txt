@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\obj\Debug\net5.0\RationalNumbers.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\obj\Debug\net5.0\RationalNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\obj\Debug\net5.0\RationalNumbers.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\obj\Debug\net5.0\RationalNumbers.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\obj\Debug\net5.0\RationalNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\bin\Debug\net5.0\RationalNumbers.exe
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\bin\Debug\net5.0\RationalNumbers.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\bin\Debug\net5.0\RationalNumbers.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\bin\Debug\net5.0\RationalNumbers.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\bin\Debug\net5.0\RationalNumbers.dll
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\bin\Debug\net5.0\ref\RationalNumbers.dll
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\bin\Debug\net5.0\RationalNumbers.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\obj\Debug\net5.0\RationalNumbers.dll
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\obj\Debug\net5.0\ref\RationalNumbers.dll
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\obj\Debug\net5.0\RationalNumbers.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\RationalNumbers\obj\Debug\net5.0\RationalNumbers.genruntimeconfig.cache

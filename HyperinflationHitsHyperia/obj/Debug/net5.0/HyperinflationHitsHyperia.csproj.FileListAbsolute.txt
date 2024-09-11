@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\bin\Debug\net5.0\HyperinflationHitsHyperia.exe
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\bin\Debug\net5.0\HyperinflationHitsHyperia.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\bin\Debug\net5.0\HyperinflationHitsHyperia.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\bin\Debug\net5.0\HyperinflationHitsHyperia.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\bin\Debug\net5.0\HyperinflationHitsHyperia.dll
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\bin\Debug\net5.0\ref\HyperinflationHitsHyperia.dll
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\bin\Debug\net5.0\HyperinflationHitsHyperia.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\obj\Debug\net5.0\HyperinflationHitsHyperia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\obj\Debug\net5.0\HyperinflationHitsHyperia.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\obj\Debug\net5.0\HyperinflationHitsHyperia.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\obj\Debug\net5.0\HyperinflationHitsHyperia.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\obj\Debug\net5.0\HyperinflationHitsHyperia.dll
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\obj\Debug\net5.0\ref\HyperinflationHitsHyperia.dll
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\obj\Debug\net5.0\HyperinflationHitsHyperia.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\obj\Debug\net5.0\HyperinflationHitsHyperia.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\LucianLasagna\HyperinflationHitsHyperia\obj\Debug\net5.0\HyperinflationHitsHyperia.csproj.AssemblyReference.cache

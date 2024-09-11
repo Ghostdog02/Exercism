@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\obj\Debug\net5.0\BeautySalonGlobal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\obj\Debug\net5.0\BeautySalonGlobal.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\obj\Debug\net5.0\BeautySalonGlobal.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\obj\Debug\net5.0\BeautySalonGlobal.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\bin\Debug\net5.0\BeautySalonGlobal.exe
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\bin\Debug\net5.0\BeautySalonGlobal.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\bin\Debug\net5.0\BeautySalonGlobal.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\bin\Debug\net5.0\BeautySalonGlobal.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\bin\Debug\net5.0\BeautySalonGlobal.dll
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\bin\Debug\net5.0\ref\BeautySalonGlobal.dll
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\bin\Debug\net5.0\BeautySalonGlobal.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\obj\Debug\net5.0\BeautySalonGlobal.dll
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\obj\Debug\net5.0\ref\BeautySalonGlobal.dll
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\obj\Debug\net5.0\BeautySalonGlobal.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\obj\Debug\net5.0\BeautySalonGlobal.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\LucianLasagna\BeautySalonGlobal\obj\Debug\net5.0\BeautySalonGlobal.csproj.AssemblyReference.cache

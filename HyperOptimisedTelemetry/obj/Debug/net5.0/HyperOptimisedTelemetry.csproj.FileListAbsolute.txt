@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\bin\Debug\net5.0\HyperOptimisedTelemetry.exe
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\bin\Debug\net5.0\HyperOptimisedTelemetry.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\bin\Debug\net5.0\HyperOptimisedTelemetry.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\bin\Debug\net5.0\HyperOptimisedTelemetry.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\bin\Debug\net5.0\HyperOptimisedTelemetry.dll
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\bin\Debug\net5.0\ref\HyperOptimisedTelemetry.dll
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\bin\Debug\net5.0\HyperOptimisedTelemetry.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\obj\Debug\net5.0\HyperOptimisedTelemetry.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\obj\Debug\net5.0\HyperOptimisedTelemetry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\obj\Debug\net5.0\HyperOptimisedTelemetry.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\obj\Debug\net5.0\HyperOptimisedTelemetry.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\obj\Debug\net5.0\HyperOptimisedTelemetry.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\obj\Debug\net5.0\HyperOptimisedTelemetry.dll
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\obj\Debug\net5.0\ref\HyperOptimisedTelemetry.dll
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\obj\Debug\net5.0\HyperOptimisedTelemetry.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\HyperOptimisedTelemetry\obj\Debug\net5.0\HyperOptimisedTelemetry.genruntimeconfig.cache

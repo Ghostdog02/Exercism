@@ -1,0 +1,5 @@
+C:\Users\Alexander\source\repos\LucianLasagna\TheWeatherInDeather\obj\Debug\net5.0\TheWeatherInDeather.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\TheWeatherInDeather\obj\Debug\net5.0\TheWeatherInDeather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\TheWeatherInDeather\obj\Debug\net5.0\TheWeatherInDeather.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\TheWeatherInDeather\obj\Debug\net5.0\TheWeatherInDeather.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\TheWeatherInDeather\obj\Debug\net5.0\TheWeatherInDeather.csproj.CoreCompileInputs.cache

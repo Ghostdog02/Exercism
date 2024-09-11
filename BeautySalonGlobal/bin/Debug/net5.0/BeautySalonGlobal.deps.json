@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BeautySalonGlobal/1.0.0": {
+        "runtime": {
+          "BeautySalonGlobal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BeautySalonGlobal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

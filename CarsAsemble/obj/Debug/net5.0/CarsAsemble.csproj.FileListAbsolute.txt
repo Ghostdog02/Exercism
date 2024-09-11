@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\bin\Debug\net5.0\CarsAsemble.exe
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\bin\Debug\net5.0\CarsAsemble.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\bin\Debug\net5.0\CarsAsemble.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\bin\Debug\net5.0\CarsAsemble.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\bin\Debug\net5.0\CarsAsemble.dll
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\bin\Debug\net5.0\ref\CarsAsemble.dll
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\bin\Debug\net5.0\CarsAsemble.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\obj\Debug\net5.0\CarsAsemble.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\obj\Debug\net5.0\CarsAsemble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\obj\Debug\net5.0\CarsAsemble.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\obj\Debug\net5.0\CarsAsemble.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\obj\Debug\net5.0\CarsAsemble.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\obj\Debug\net5.0\CarsAsemble.dll
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\obj\Debug\net5.0\ref\CarsAsemble.dll
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\obj\Debug\net5.0\CarsAsemble.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\CarsAsemble\obj\Debug\net5.0\CarsAsemble.genruntimeconfig.cache

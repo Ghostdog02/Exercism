@@ -1,0 +1,5 @@
+C:\Users\Alexander\source\repos\LucianLasagna\RedVsBlueDarwinStyle\obj\Debug\net5.0\RedVsBlueDarwinStyle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\RedVsBlueDarwinStyle\obj\Debug\net5.0\RedVsBlueDarwinStyle.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\RedVsBlueDarwinStyle\obj\Debug\net5.0\RedVsBlueDarwinStyle.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\RedVsBlueDarwinStyle\obj\Debug\net5.0\RedVsBlueDarwinStyle.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\RedVsBlueDarwinStyle\obj\Debug\net5.0\RedVsBlueDarwinStyle.csproj.AssemblyReference.cache

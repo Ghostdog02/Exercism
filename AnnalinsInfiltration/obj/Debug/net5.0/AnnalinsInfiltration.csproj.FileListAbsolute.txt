@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\bin\Debug\net5.0\AnnalinsInfiltration.exe
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\bin\Debug\net5.0\AnnalinsInfiltration.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\bin\Debug\net5.0\AnnalinsInfiltration.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\bin\Debug\net5.0\AnnalinsInfiltration.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\bin\Debug\net5.0\AnnalinsInfiltration.dll
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\bin\Debug\net5.0\ref\AnnalinsInfiltration.dll
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\bin\Debug\net5.0\AnnalinsInfiltration.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\obj\Debug\net5.0\AnnalinsInfiltration.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\obj\Debug\net5.0\AnnalinsInfiltration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\obj\Debug\net5.0\AnnalinsInfiltration.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\obj\Debug\net5.0\AnnalinsInfiltration.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\obj\Debug\net5.0\AnnalinsInfiltration.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\obj\Debug\net5.0\AnnalinsInfiltration.dll
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\obj\Debug\net5.0\ref\AnnalinsInfiltration.dll
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\obj\Debug\net5.0\AnnalinsInfiltration.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\AnnalinsInfiltration\obj\Debug\net5.0\AnnalinsInfiltration.genruntimeconfig.cache

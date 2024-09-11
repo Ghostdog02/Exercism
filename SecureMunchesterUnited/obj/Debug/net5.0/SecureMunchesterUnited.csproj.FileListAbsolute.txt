@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\bin\Debug\net5.0\SecureMunchesterUnited.exe
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\bin\Debug\net5.0\SecureMunchesterUnited.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\bin\Debug\net5.0\SecureMunchesterUnited.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\bin\Debug\net5.0\SecureMunchesterUnited.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\bin\Debug\net5.0\SecureMunchesterUnited.dll
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\bin\Debug\net5.0\ref\SecureMunchesterUnited.dll
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\bin\Debug\net5.0\SecureMunchesterUnited.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\obj\Debug\net5.0\SecureMunchesterUnited.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\obj\Debug\net5.0\SecureMunchesterUnited.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\obj\Debug\net5.0\SecureMunchesterUnited.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\obj\Debug\net5.0\SecureMunchesterUnited.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\obj\Debug\net5.0\SecureMunchesterUnited.dll
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\obj\Debug\net5.0\ref\SecureMunchesterUnited.dll
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\obj\Debug\net5.0\SecureMunchesterUnited.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\obj\Debug\net5.0\SecureMunchesterUnited.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\LucianLasagna\SecureMunchesterUnited\obj\Debug\net5.0\SecureMunchesterUnited.csproj.AssemblyReference.cache

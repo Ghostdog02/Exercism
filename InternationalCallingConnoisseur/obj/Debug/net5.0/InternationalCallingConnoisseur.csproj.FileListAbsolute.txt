@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\obj\Debug\net5.0\InternationalCallingConnoisseur.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\obj\Debug\net5.0\InternationalCallingConnoisseur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\obj\Debug\net5.0\InternationalCallingConnoisseur.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\obj\Debug\net5.0\InternationalCallingConnoisseur.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\obj\Debug\net5.0\InternationalCallingConnoisseur.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\bin\Debug\net5.0\InternationalCallingConnoisseur.exe
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\bin\Debug\net5.0\InternationalCallingConnoisseur.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\bin\Debug\net5.0\InternationalCallingConnoisseur.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\bin\Debug\net5.0\InternationalCallingConnoisseur.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\bin\Debug\net5.0\InternationalCallingConnoisseur.dll
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\bin\Debug\net5.0\ref\InternationalCallingConnoisseur.dll
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\bin\Debug\net5.0\InternationalCallingConnoisseur.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\obj\Debug\net5.0\InternationalCallingConnoisseur.dll
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\obj\Debug\net5.0\ref\InternationalCallingConnoisseur.dll
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\obj\Debug\net5.0\InternationalCallingConnoisseur.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\InternationalCallingConnoisseur\obj\Debug\net5.0\InternationalCallingConnoisseur.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\obj\Debug\net5.0\LucianLasagna.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\obj\Debug\net5.0\LucianLasagna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\obj\Debug\net5.0\LucianLasagna.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\obj\Debug\net5.0\LucianLasagna.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\obj\Debug\net5.0\LucianLasagna.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\bin\Debug\net5.0\LucianLasagna.exe
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\bin\Debug\net5.0\LucianLasagna.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\bin\Debug\net5.0\LucianLasagna.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\bin\Debug\net5.0\LucianLasagna.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\bin\Debug\net5.0\LucianLasagna.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\bin\Debug\net5.0\ref\LucianLasagna.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\bin\Debug\net5.0\LucianLasagna.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\obj\Debug\net5.0\LucianLasagna.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\obj\Debug\net5.0\ref\LucianLasagna.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\obj\Debug\net5.0\LucianLasagna.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\LucianLasagna\obj\Debug\net5.0\LucianLasagna.genruntimeconfig.cache

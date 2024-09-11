@@ -1,0 +1,15 @@
+C:\Users\Alexander\source\repos\LucianLasagna\LandGrabInSpace\bin\Debug\net5.0\LandGrabInSpace.exe
+C:\Users\Alexander\source\repos\LucianLasagna\LandGrabInSpace\bin\Debug\net5.0\LandGrabInSpace.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\LandGrabInSpace\bin\Debug\net5.0\LandGrabInSpace.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\LandGrabInSpace\bin\Debug\net5.0\LandGrabInSpace.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\LandGrabInSpace\bin\Debug\net5.0\LandGrabInSpace.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LandGrabInSpace\bin\Debug\net5.0\ref\LandGrabInSpace.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LandGrabInSpace\bin\Debug\net5.0\LandGrabInSpace.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\LandGrabInSpace\obj\Debug\net5.0\LandGrabInSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\LandGrabInSpace\obj\Debug\net5.0\LandGrabInSpace.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\LandGrabInSpace\obj\Debug\net5.0\LandGrabInSpace.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\LandGrabInSpace\obj\Debug\net5.0\LandGrabInSpace.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\LandGrabInSpace\obj\Debug\net5.0\LandGrabInSpace.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LandGrabInSpace\obj\Debug\net5.0\ref\LandGrabInSpace.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LandGrabInSpace\obj\Debug\net5.0\LandGrabInSpace.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\LandGrabInSpace\obj\Debug\net5.0\LandGrabInSpace.genruntimeconfig.cache

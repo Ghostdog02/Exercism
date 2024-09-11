@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\obj\Debug\net5.0\InterestIsInteresting.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\obj\Debug\net5.0\InterestIsInteresting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\obj\Debug\net5.0\InterestIsInteresting.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\obj\Debug\net5.0\InterestIsInteresting.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\obj\Debug\net5.0\InterestIsInteresting.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\bin\Debug\net5.0\InterestIsInteresting.exe
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\bin\Debug\net5.0\InterestIsInteresting.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\bin\Debug\net5.0\InterestIsInteresting.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\bin\Debug\net5.0\InterestIsInteresting.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\bin\Debug\net5.0\InterestIsInteresting.dll
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\bin\Debug\net5.0\ref\InterestIsInteresting.dll
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\bin\Debug\net5.0\InterestIsInteresting.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\obj\Debug\net5.0\InterestIsInteresting.dll
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\obj\Debug\net5.0\ref\InterestIsInteresting.dll
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\obj\Debug\net5.0\InterestIsInteresting.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\InterestIsInteresting\obj\Debug\net5.0\InterestIsInteresting.genruntimeconfig.cache

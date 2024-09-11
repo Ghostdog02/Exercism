@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\bin\Debug\net5.0\RomanNumerals.exe
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\bin\Debug\net5.0\RomanNumerals.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\bin\Debug\net5.0\RomanNumerals.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\bin\Debug\net5.0\RomanNumerals.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\bin\Debug\net5.0\RomanNumerals.dll
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\bin\Debug\net5.0\ref\RomanNumerals.dll
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\bin\Debug\net5.0\RomanNumerals.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\obj\Debug\net5.0\RomanNumerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\obj\Debug\net5.0\RomanNumerals.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\obj\Debug\net5.0\RomanNumerals.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\obj\Debug\net5.0\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\obj\Debug\net5.0\RomanNumerals.dll
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\obj\Debug\net5.0\ref\RomanNumerals.dll
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\obj\Debug\net5.0\RomanNumerals.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\obj\Debug\net5.0\RomanNumerals.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\LucianLasagna\RomanNumerals\obj\Debug\net5.0\RomanNumerals.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\bin\Debug\net5.0\AttackOfTrolls.exe
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\bin\Debug\net5.0\AttackOfTrolls.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\bin\Debug\net5.0\AttackOfTrolls.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\bin\Debug\net5.0\AttackOfTrolls.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\bin\Debug\net5.0\AttackOfTrolls.dll
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\bin\Debug\net5.0\ref\AttackOfTrolls.dll
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\bin\Debug\net5.0\AttackOfTrolls.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\obj\Debug\net5.0\AttackOfTrolls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\obj\Debug\net5.0\AttackOfTrolls.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\obj\Debug\net5.0\AttackOfTrolls.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\obj\Debug\net5.0\AttackOfTrolls.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\obj\Debug\net5.0\AttackOfTrolls.dll
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\obj\Debug\net5.0\ref\AttackOfTrolls.dll
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\obj\Debug\net5.0\AttackOfTrolls.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\obj\Debug\net5.0\AttackOfTrolls.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\LucianLasagna\AttackOfTrolls\obj\Debug\net5.0\AttackOfTrolls.csproj.AssemblyReference.cache

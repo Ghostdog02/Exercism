@@ -1,0 +1,5 @@
+C:\Users\Alexander\source\repos\LucianLasagna\CalculatorConundrum\obj\Debug\net5.0\CalculatorConundrum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\CalculatorConundrum\obj\Debug\net5.0\CalculatorConundrum.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\CalculatorConundrum\obj\Debug\net5.0\CalculatorConundrum.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\CalculatorConundrum\obj\Debug\net5.0\CalculatorConundrum.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\CalculatorConundrum\obj\Debug\net5.0\CalculatorConundrum.csproj.AssemblyReference.cache

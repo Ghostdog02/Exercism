@@ -1,0 +1,4 @@
+C:\Users\Alexander\source\repos\LucianLasagna\ObjectRelationalMapping\obj\Debug\net5.0\ObjectRelationalMapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\ObjectRelationalMapping\obj\Debug\net5.0\ObjectRelationalMapping.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\ObjectRelationalMapping\obj\Debug\net5.0\ObjectRelationalMapping.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\ObjectRelationalMapping\obj\Debug\net5.0\ObjectRelationalMapping.csproj.CoreCompileInputs.cache

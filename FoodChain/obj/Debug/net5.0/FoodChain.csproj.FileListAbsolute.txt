@@ -1,0 +1,15 @@
+D:\Projects\Exercism\FoodChain\bin\Debug\net5.0\FoodChain.exe
+D:\Projects\Exercism\FoodChain\bin\Debug\net5.0\FoodChain.deps.json
+D:\Projects\Exercism\FoodChain\bin\Debug\net5.0\FoodChain.runtimeconfig.json
+D:\Projects\Exercism\FoodChain\bin\Debug\net5.0\FoodChain.runtimeconfig.dev.json
+D:\Projects\Exercism\FoodChain\bin\Debug\net5.0\FoodChain.dll
+D:\Projects\Exercism\FoodChain\bin\Debug\net5.0\ref\FoodChain.dll
+D:\Projects\Exercism\FoodChain\bin\Debug\net5.0\FoodChain.pdb
+D:\Projects\Exercism\FoodChain\obj\Debug\net5.0\FoodChain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Exercism\FoodChain\obj\Debug\net5.0\FoodChain.AssemblyInfoInputs.cache
+D:\Projects\Exercism\FoodChain\obj\Debug\net5.0\FoodChain.AssemblyInfo.cs
+D:\Projects\Exercism\FoodChain\obj\Debug\net5.0\FoodChain.csproj.CoreCompileInputs.cache
+D:\Projects\Exercism\FoodChain\obj\Debug\net5.0\FoodChain.dll
+D:\Projects\Exercism\FoodChain\obj\Debug\net5.0\ref\FoodChain.dll
+D:\Projects\Exercism\FoodChain\obj\Debug\net5.0\FoodChain.pdb
+D:\Projects\Exercism\FoodChain\obj\Debug\net5.0\FoodChain.genruntimeconfig.cache

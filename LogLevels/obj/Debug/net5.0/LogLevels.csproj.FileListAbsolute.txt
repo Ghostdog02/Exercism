@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\bin\Debug\net5.0\LogLevels.exe
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\bin\Debug\net5.0\LogLevels.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\bin\Debug\net5.0\LogLevels.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\bin\Debug\net5.0\LogLevels.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\bin\Debug\net5.0\LogLevels.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\bin\Debug\net5.0\ref\LogLevels.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\bin\Debug\net5.0\LogLevels.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\obj\Debug\net5.0\LogLevels.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\obj\Debug\net5.0\LogLevels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\obj\Debug\net5.0\LogLevels.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\obj\Debug\net5.0\LogLevels.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\obj\Debug\net5.0\LogLevels.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\obj\Debug\net5.0\LogLevels.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\obj\Debug\net5.0\ref\LogLevels.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\obj\Debug\net5.0\LogLevels.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\LogLevels\obj\Debug\net5.0\LogLevels.genruntimeconfig.cache

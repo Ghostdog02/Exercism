@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\bin\Debug\net5.0\LogAnalysis.exe
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\bin\Debug\net5.0\LogAnalysis.deps.json
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\bin\Debug\net5.0\LogAnalysis.runtimeconfig.json
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\bin\Debug\net5.0\LogAnalysis.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\bin\Debug\net5.0\LogAnalysis.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\bin\Debug\net5.0\ref\LogAnalysis.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\bin\Debug\net5.0\LogAnalysis.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\obj\Debug\net5.0\LogAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\obj\Debug\net5.0\LogAnalysis.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\obj\Debug\net5.0\LogAnalysis.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\obj\Debug\net5.0\LogAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\obj\Debug\net5.0\LogAnalysis.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\obj\Debug\net5.0\ref\LogAnalysis.dll
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\obj\Debug\net5.0\LogAnalysis.pdb
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\obj\Debug\net5.0\LogAnalysis.genruntimeconfig.cache
+C:\Users\Alexander\source\repos\LucianLasagna\LogAnalysis\obj\Debug\net5.0\LogAnalysis.csproj.AssemblyReference.cache
