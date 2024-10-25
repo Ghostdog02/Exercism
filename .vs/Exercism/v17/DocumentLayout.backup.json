@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Exercism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D61D4481-ECFB-4146-8F75-0DCCFA79664A}|DataValidation\\DataValidation.csproj|d:\\projects\\exercism\\datavalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D61D4481-ECFB-4146-8F75-0DCCFA79664A}|DataValidation\\DataValidation.csproj|solutionrelative:datavalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F6A9ED-8E01-449B-A3AE-C0C1518B5C50}|WizardsAndWarriors2\\WizardsAndWarriors2.csproj|d:\\projects\\exercism\\wizardsandwarriors2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F6A9ED-8E01-449B-A3AE-C0C1518B5C50}|WizardsAndWarriors2\\WizardsAndWarriors2.csproj|solutionrelative:wizardsandwarriors2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34C7734A-7C47-44C2-8D29-32A4FDA2E3F0}|WizardsAndWarriors\\WizardsAndWarriors.csproj|d:\\projects\\exercism\\wizardsandwarriors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34C7734A-7C47-44C2-8D29-32A4FDA2E3F0}|WizardsAndWarriors\\WizardsAndWarriors.csproj|solutionrelative:wizardsandwarriors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Exercism\\DataValidation\\Program.cs",
+              "RelativeDocumentMoniker": "DataValidation\\Program.cs",
+              "ToolTip": "D:\\Projects\\Exercism\\DataValidation\\Program.cs",
+              "RelativeToolTip": "DataValidation\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:04:13.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Exercism\\WizardsAndWarriors2\\Program.cs",
+              "RelativeDocumentMoniker": "WizardsAndWarriors2\\Program.cs",
+              "ToolTip": "D:\\Projects\\Exercism\\WizardsAndWarriors2\\Program.cs",
+              "RelativeToolTip": "WizardsAndWarriors2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:03:39.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Exercism\\WizardsAndWarriors\\Program.cs",
+              "RelativeDocumentMoniker": "WizardsAndWarriors\\Program.cs",
+              "ToolTip": "D:\\Projects\\Exercism\\WizardsAndWarriors\\Program.cs",
+              "RelativeToolTip": "WizardsAndWarriors\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:03:34.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

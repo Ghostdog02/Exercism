@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31911.196
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LucianLasagna", "LucianLasagna\LucianLasagna.csproj", "{6C5E61AE-691D-4688-B65D-38FA9B1489A7}"
 EndProject
@@ -113,19 +113,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PythagoreanTriplet", "Pytha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SaddlePoints", "SaddlePoints\SaddlePoints.csproj", "{2548C04C-EAF8-46B3-ABF6-99C4756AF579}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap", "Leap\Leap.csproj", "{FF33865D-C7B4-4EB5-B5A2-2A80DB187C10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leap", "Leap\Leap.csproj", "{FF33865D-C7B4-4EB5-B5A2-2A80DB187C10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hamming", "Hamming\Hamming.csproj", "{D95D8980-96E9-48BB-999D-47D15688F200}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hamming", "Hamming\Hamming.csproj", "{D95D8980-96E9-48BB-999D-47D15688F200}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollatzConjecture", "CollatzConjecture\CollatzConjecture.csproj", "{03800BD2-70A4-4D7D-A4EA-3693CEF04F96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CollatzConjecture", "CollatzConjecture\CollatzConjecture.csproj", "{03800BD2-70A4-4D7D-A4EA-3693CEF04F96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darts", "Darts\Darts.csproj", "{F6E86D22-AEE2-41DC-9721-B35ACCEF57EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Darts", "Darts\Darts.csproj", "{F6E86D22-AEE2-41DC-9721-B35ACCEF57EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{D4D9F2BF-F14C-4EA3-A9B1-9C4C7F5DF640}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle", "Triangle\Triangle.csproj", "{D4D9F2BF-F14C-4EA3-A9B1-9C4C7F5DF640}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raindrops", "Raindrops\Raindrops.csproj", "{1B4A3EBA-D92F-46F5-8651-4B4CE7D10571}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raindrops", "Raindrops\Raindrops.csproj", "{1B4A3EBA-D92F-46F5-8651-4B4CE7D10571}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodChain", "FoodChain\FoodChain.csproj", "{FCA59DFB-CE66-49AE-81F7-C420BB1D4B0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodChain", "FoodChain\FoodChain.csproj", "{FCA59DFB-CE66-49AE-81F7-C420BB1D4B0F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataValidation", "DataValidation\DataValidation.csproj", "{D61D4481-ECFB-4146-8F75-0DCCFA79664A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RangeBetweenTwoMonths", "RangeBetweenTwoMonths\RangeBetweenTwoMonths.csproj", "{158367A3-6691-4F48-8E1A-750FF7762936}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -381,6 +385,14 @@ Global
 		{FCA59DFB-CE66-49AE-81F7-C420BB1D4B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCA59DFB-CE66-49AE-81F7-C420BB1D4B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCA59DFB-CE66-49AE-81F7-C420BB1D4B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61D4481-ECFB-4146-8F75-0DCCFA79664A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61D4481-ECFB-4146-8F75-0DCCFA79664A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61D4481-ECFB-4146-8F75-0DCCFA79664A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61D4481-ECFB-4146-8F75-0DCCFA79664A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{158367A3-6691-4F48-8E1A-750FF7762936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158367A3-6691-4F48-8E1A-750FF7762936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158367A3-6691-4F48-8E1A-750FF7762936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158367A3-6691-4F48-8E1A-750FF7762936}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

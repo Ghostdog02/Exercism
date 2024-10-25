@@ -1,0 +1,15 @@
+C:\Users\Alexander\source\repos\DataValidation\DataValidation\bin\Debug\net5.0\DataValidation.exe
+C:\Users\Alexander\source\repos\DataValidation\DataValidation\bin\Debug\net5.0\DataValidation.deps.json
+C:\Users\Alexander\source\repos\DataValidation\DataValidation\bin\Debug\net5.0\DataValidation.runtimeconfig.json
+C:\Users\Alexander\source\repos\DataValidation\DataValidation\bin\Debug\net5.0\DataValidation.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\DataValidation\DataValidation\bin\Debug\net5.0\DataValidation.dll
+C:\Users\Alexander\source\repos\DataValidation\DataValidation\bin\Debug\net5.0\ref\DataValidation.dll
+C:\Users\Alexander\source\repos\DataValidation\DataValidation\bin\Debug\net5.0\DataValidation.pdb
+C:\Users\Alexander\source\repos\DataValidation\DataValidation\obj\Debug\net5.0\DataValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\DataValidation\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\DataValidation\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\DataValidation\DataValidation\obj\Debug\net5.0\DataValidation.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\DataValidation\DataValidation\obj\Debug\net5.0\DataValidation.dll
+C:\Users\Alexander\source\repos\DataValidation\DataValidation\obj\Debug\net5.0\ref\DataValidation.dll
+C:\Users\Alexander\source\repos\DataValidation\DataValidation\obj\Debug\net5.0\DataValidation.pdb
+C:\Users\Alexander\source\repos\DataValidation\DataValidation\obj\Debug\net5.0\DataValidation.genruntimeconfig.cache

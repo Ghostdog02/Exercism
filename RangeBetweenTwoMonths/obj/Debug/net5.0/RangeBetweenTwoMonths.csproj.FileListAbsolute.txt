@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\bin\Debug\net5.0\RangeBetweenTwoMonths.exe
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\bin\Debug\net5.0\RangeBetweenTwoMonths.deps.json
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\bin\Debug\net5.0\RangeBetweenTwoMonths.runtimeconfig.json
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\bin\Debug\net5.0\RangeBetweenTwoMonths.runtimeconfig.dev.json
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\bin\Debug\net5.0\RangeBetweenTwoMonths.dll
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\bin\Debug\net5.0\ref\RangeBetweenTwoMonths.dll
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\bin\Debug\net5.0\RangeBetweenTwoMonths.pdb
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\obj\Debug\net5.0\RangeBetweenTwoMonths.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\obj\Debug\net5.0\RangeBetweenTwoMonths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\obj\Debug\net5.0\RangeBetweenTwoMonths.AssemblyInfoInputs.cache
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\obj\Debug\net5.0\RangeBetweenTwoMonths.AssemblyInfo.cs
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\obj\Debug\net5.0\RangeBetweenTwoMonths.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\obj\Debug\net5.0\RangeBetweenTwoMonths.dll
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\obj\Debug\net5.0\ref\RangeBetweenTwoMonths.dll
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\obj\Debug\net5.0\RangeBetweenTwoMonths.pdb
+C:\Users\Alexander\source\repos\RangeBetweenTwoMonths\RangeBetweenTwoMonths\obj\Debug\net5.0\RangeBetweenTwoMonths.genruntimeconfig.cache
